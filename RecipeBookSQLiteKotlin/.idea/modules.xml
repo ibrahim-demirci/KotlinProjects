@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecipeBookSQLiteKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/RecipeBookSQLiteKotlin.iml" group="RecipeBookSQLiteKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecipeBookSQLiteKotlin-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecipeBookSQLiteKotlin-app.iml" group="RecipeBookSQLiteKotlin/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RecipeBookSQLiteKotlin/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_projects-RecipeBookSQLiteKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_projects-RecipeBookSQLiteKotlin.iml" group="RecipeBookSQLiteKotlin" />
+    </modules>
+  </component>
+</project>
